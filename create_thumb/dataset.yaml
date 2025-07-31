@@ -1,0 +1,5 @@
+train: /content/study/train
+val: /content/study/valid
+
+nc: 1
+names: ['person']
